@@ -1,3 +1,9 @@
+/*****************************************************************************
+
+               (c) Yogev Kahana 2020c (c) 
+	       
+*****************************************************************************/  
+
 # Assembler-project---OpenU
 hardware of project - 
 
@@ -13,3 +19,8 @@ At 0-2 ^ 21-1 and each cell is 24 bits in size a memory cell is also called the 
 This computer only works with numbers integers, positive and negative
 Real numbers are not supported
 In addition there is support for characters represented by ascii code.
+/*****************************************************************************
+
+               (c) Yogev Kahana 2020c (c) 
+	       
+*****************************************************************************/  
