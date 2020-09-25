@@ -1,3 +1,8 @@
+
+ /*
+ (c) Yogev Kahana 2020c
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -66,3 +71,8 @@ char *fileNameWithExtension;
  }
 return 0;/*1 = exist, 0= don't*/ 
 }
+
+
+ /*
+ (c) Yogev Kahana 2020c
+ */
