@@ -1,6 +1,9 @@
-  /*
- (c) Yogev Kahana 2020c
- */
+/*****************************************************************************
+
+               (c) Yogev Kahana 2020c (c) 
+	       
+*****************************************************************************/  
+
  #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
@@ -59,7 +62,7 @@ BOOL CreateEntryFile( char *fileName )
 
 	     ptrEntryFile = fopen(entryFileName, "w+");
 
-	     if(ptrEntryFile != NULL)
+	     if(ptrEntryFile != NULL) 
 	     {
     	   Created = TRUE;
            for(i=0; i<numOfLables; i++)
@@ -108,12 +111,8 @@ BOOL CreateEntryFile( char *fileName )
 }
 
 
+/*****************************************************************************
 
-
-
-
-
- 
-   /*
- (c) Yogev Kahana 2020c
- */
+               (c) Yogev Kahana 2020c (c) 
+	       
+*****************************************************************************/  
