@@ -1,6 +1,7 @@
-/*
- (c) Yogev Kahana 2020c
- */
+*****************************************************************************
+
+           (c) Yogev Kahana 2020c (c) 
+*****************************************************************************/
  
  OCC = gcc -c -ansi -Wall -pedantic
 ECC = gcc -g -ansi -Wall -pedantic
@@ -36,7 +37,7 @@ ObjectImage.o: ObjectImage.c ObjectImage.h definitions.h   errors.h assembler.h
 	
 definitions.o: definitions.c  definitions.h
 	$(OCC) definitions.c -o definitions.o
+*****************************************************************************
 
- /*
- (c) Yogev Kahana 2020c
- */
+           (c) Yogev Kahana 2020c (c) 
+*****************************************************************************/
