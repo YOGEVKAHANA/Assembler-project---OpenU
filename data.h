@@ -1,7 +1,8 @@
+/*****************************************************************************
 
- /*
- (c) Yogev Kahana 2020c
- */
+               (c) Yogev Kahana 2020c (c) 
+	       
+*****************************************************************************/  
  
  /*struct a label according to rules of labels and syntax*/
 struct  LabelDefintion {
@@ -19,6 +20,8 @@ extern BOOL EnterLable( char *lable, int lableLength, enum lableTypes lableType,
 extern int  GetSymbolTableData(struct LabelDefintion **labelsTable);
 
  
- /*
- (c) Yogev Kahana 2020c
- */
+/*****************************************************************************
+
+               (c) Yogev Kahana 2020c (c) 
+	       
+*****************************************************************************/  
